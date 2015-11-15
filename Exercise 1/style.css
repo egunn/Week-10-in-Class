@@ -53,4 +53,5 @@ p{
     fill:none;
     stroke:red;
     stroke-width:2px;
+    stroke-dasharray: 5px;
 }
